@@ -1,0 +1,2 @@
+Line 1: LCEL composes steps with pipes.
+Line 2: Text splitters break large text into chunks with overlap.
